@@ -6,10 +6,10 @@ Dedicated to best practices, performance optimization, and integrating latest AI
 
 Recently actions performed in leveraging Prompt Engineering, RAG, Fine-tuning over those LLMs - Huggingface LLMs, transformer & tools(llama.cpp, vllama), Chatgpt gpt4-o to bring businesses and customers AI-powered tech solutions – like customized chatbot and AI-integrated products like AI voice assistant.
 
-• Backend: Node.js (Express), Python,  C# .NET, ASP.NET, Legacy PHP frameworks, Java Spring
-• Frontend: React.js (Next.js), Angular/Vue, Razor, Blade, Flutter
-• Javascript SDK development and integration, Chrome Extension development
-• Tools: llama.cpp/vllama/vLLM, Huggingface, Chatgpt, Qwen3, Twilio, Whatsapp
+• Backend: Node.js (Express), Python,  C# .NET, ASP.NET, Legacy PHP frameworks, Java Spring<br />
+• Frontend: React.js (Next.js), Angular/Vue, Razor, Blade, Flutter<br />
+• Javascript SDK development and integration, Chrome Extension development<br />
+• Tools: llama.cpp/vllama/vLLM, Huggingface, Chatgpt, Qwen3, Twilio, Whatsapp<br />
 • Mobile Apps: Flutter, React Native, Kotlin
 
 
@@ -20,15 +20,15 @@ If you ask about the technical solution to your project, we will provide you exp
 
 You can contact us via email either one of following emails
 
-hellobuz@nexbigo.com
-fujisawatadoru0830@gmail.com
-devsunleez@gmail.com
-danielsim891016@gmail.com
+hellobuz@nexbigo.com<br />
+fujisawatadoru0830@gmail.com<br />
+devsunleez@gmail.com<br />
+danielsim891016@gmail.com<br />
 
-You can contact us via whatsapp too.
-+1 458-308-3832
-+81 80-246-8288
-+63 994-089-2821
+You can contact us via whatsapp too.<br />
++1 458-308-3832<br />
++81 80-246-8288<br />
++63 994-089-2821<br />
 
 ## ⚡ Fun fact: ...
 Can earn $100k at one day! 
