@@ -1,6 +1,6 @@
-## Hi everyone, thank you for visiting our github profile! 👋
+## Hi everyone, thank you for visiting my github profile! 👋
 
-Senior Full-Stack Developers who have been doing over 10 years - architecting and delivering high-quality, scalable applications using AI, Node.js, Python, .NET and Javascript/Typescript.
+Senior Full-Stack Developer who have been doing over 10 years - architecting and delivering high-quality, scalable applications using AI, Node.js, Python, .NET and Javascript/Typescript.
 
 Dedicated to best practices, performance optimization, and integrating latest AI throughputs with a vast of experience and passionate research.
 
@@ -13,22 +13,15 @@ Recently actions performed in leveraging Prompt Engineering, RAG, Fine-tuning ov
 • Mobile Apps: Flutter, React Native, Kotlin
 
 
-We have successfully developed and deployed many of client projects and we keep almost of them in private according to the initial agreement of NDA sign document.
-If you ask about the technical solution to your project, we will provide you explanatary diagrams with documents that includes timelines and milestones with budget ranges.
-
 ## 📫 How to reach me: 
 
 You can contact us via email either one of following emails
 
-hellobuz@nexbigo.com<br />
-fujisawatadoru0830@gmail.com<br />
 devsunleez@gmail.com<br />
-danielsim891016@gmail.com<br />
 
 You can contact us via whatsapp too.<br />
 +1 458-308-3832<br />
 +81 80-246-8288<br />
-+63 994-089-2821<br />
 
 ## ⚡ Fun fact: ...
-Can earn $100k at one day! 
+I'm always following after tech. No days standing before it.
