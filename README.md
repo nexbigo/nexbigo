@@ -1,4 +1,4 @@
-<img width="1560" height="1641" alt="image" src="https://github.com/user-attachments/assets/9b77416f-5011-4962-bfc6-42e7963472ab" />## Hi everyone, thank you for visiting my github profile! 👋
+## Hi everyone, thank you for visiting my github profile! 👋
 
 Senior Full-Stack Developer who have been doing over 10 years - architecting and delivering high-quality, scalable applications using AI, Node.js, Python, .NET and Javascript/Typescript.
 
