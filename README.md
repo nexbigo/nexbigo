@@ -1,4 +1,4 @@
-## Hi everyone, thank you for visiting my github profile! 👋
+<img width="1560" height="1641" alt="image" src="https://github.com/user-attachments/assets/9b77416f-5011-4962-bfc6-42e7963472ab" />## Hi everyone, thank you for visiting my github profile! 👋
 
 Senior Full-Stack Developer who have been doing over 10 years - architecting and delivering high-quality, scalable applications using AI, Node.js, Python, .NET and Javascript/Typescript.
 
@@ -18,10 +18,7 @@ Recently actions performed in leveraging Prompt Engineering, RAG, Fine-tuning ov
 You can contact us via email either one of following emails
 
 devsunleez@gmail.com<br />
-
-You can contact us via whatsapp too.<br />
-+1 458-308-3832<br />
-+81 80-246-8288<br />
+info@protecme.live
 
 ## ⚡ Fun fact: ...
 I'm always following after tech. No days standing before it.
